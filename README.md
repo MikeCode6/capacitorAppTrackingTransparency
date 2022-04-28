@@ -11,7 +11,7 @@
 
 ```ts
 ...
-import { AppTrackingTransparencyStatus } from 'mikecode6-capacitor-app-tracking-transparency/src';
+import { AppTrackingTransparencyStatus } from 'capacitor-app-tracking-transparency/src';
 import { Plugins } from '@capacitor/core';
 
 const { CapacitorAppTrackingTransparency } = Plugins;

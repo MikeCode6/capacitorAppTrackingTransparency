@@ -1,5 +1,5 @@
 {
-    "name": "mikecode6-capacitor-app-tracking-transparency",
+    "name": "capacitor-app-tracking-transparency",
     "version": "0.0.1",
     "description": "For Capacitor App Tracking Transparency iOS policy",
     "main": "dist/plugin.js",
